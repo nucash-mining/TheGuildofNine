@@ -5,7 +5,7 @@ interface IERC721 {
 }
 
 contract Membership {
-    address public nftAddress = 0xd07dc4262BCDbf85190C01c996b4C06a461d2430; // NFT contract address
+    address public nftAddress = 0xd07dc4262BCDbf85190C01c996b4C06a461d2430; // 9 WIZARDS NFT contract address
 
     struct Member {
         address addr;
